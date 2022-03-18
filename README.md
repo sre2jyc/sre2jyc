@@ -12,5 +12,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/sreejit--chaudhury/
 
 
-![This is a gif](https://giphy.com/clips/AnimationOnFOX-the-simpsons-fox-foxtv-KpJ47gKe6b7v7xQyWj)
+![This is a gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
