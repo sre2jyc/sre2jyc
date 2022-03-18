@@ -12,6 +12,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/sreejit--chaudhury/
 
 
-<iframe src="https://giphy.com/embed/zhJR6HbK4fthC" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/the-matrix-zhJR6HbK4fthC">via GIPHY</a></p>
-
+![](https://giphy.com/embed/zhJR6HbK4fthC)
 
