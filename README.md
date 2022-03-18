@@ -12,5 +12,5 @@
 - 📫 How to reach me: https://www.linkedin.com/in/sreejit--chaudhury/
 
 
-![This is a gif](https://giphy.com/embed/zhJR6HbK4fthC)
+![This is a gif](https://media.giphy.com/media/qSWM4R1wUvAZ6wGsgu/giphy.gif)
 
