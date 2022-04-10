@@ -14,4 +14,4 @@
 
 ![This is a gif](https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif)
 
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=aritraM23&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sre2jyc&langs_count=5&theme=tokyonight)]()
